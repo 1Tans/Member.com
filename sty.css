@@ -170,6 +170,7 @@ p{
   position: absolute;
   top: 20.5%;
   left: 20%;
+  filter: drop-shadow(10px 7px 10px #fff);
 }
 
 .image2{
@@ -177,6 +178,8 @@ p{
   position: absolute;
   top: 65%;
   right: 12%;
+      filter: drop-shadow(10px 7px 30px #fff);
+
 }
 
 .image3{
@@ -184,12 +187,16 @@ p{
   position: absolute;
   top: 125.5%;
   left: 19%;
+      filter: drop-shadow(10px 7px 10px #fff);
+
 }
 .image4{
   width: 450px;
   position: absolute;
   top: 169%;
   right: 14%;
+      filter: drop-shadow(10px 7px 30px #fff);
+
 }
 
 .image5{
@@ -197,6 +204,8 @@ p{
   position: absolute;
   top: 223.2%;
   left: 15%;
+      filter: drop-shadow(10px 7px 10px #fff);
+
 }
 
 .image6{
@@ -204,6 +213,8 @@ p{
   position: absolute;
   top: 272.3%;
   right: 21%;
+      filter: drop-shadow(10px 7px 30px #fff);
+
 }
 
 .image7{
@@ -211,12 +222,16 @@ p{
   position: absolute;
   top: 314.8%;
   left: 23%;
+      filter: drop-shadow(10px 7px 10px #fff);
+
 }
 .image8{
   width: 450px;
   position: absolute;
   top: 365.5%;
   right: 12.5%;
+      filter: drop-shadow(10px 7px 30px #fff);
+
 }
 
 .svg_preloader {
